@@ -18,4 +18,5 @@ Dự án này minh họa cách cập nhật firmware **Over-The-Air (OTA)** cho 
 5. Ghi firmware mới vào phân vùng flash OTA.
 6. Reset và chạy bản mới.
 
-## Được phát triển bởi PhamHieuu
+## ✍️ Được phát triển bởi: PhamHieuu
+📅 OTA Update System 2025
