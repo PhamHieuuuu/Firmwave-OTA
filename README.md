@@ -1,1 +1,1 @@
-v0.0.0.2
+CẬP NHẬT FIRMWAVE QUA OTA 
